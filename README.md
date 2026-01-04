@@ -226,4 +226,6 @@ Overall, Task 3 is a crucial learning experience that bridges theoretical compil
 
 #OUTPUT
 
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/680080cc-4032-4a78-8df7-1a6f696f40fc" />
+
 
